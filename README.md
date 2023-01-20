@@ -1,15 +1,33 @@
+<a name="readme-top"></a>
+
 <!-- Project Shields -->
-<div align = "center">
+<div align="center">
+  
   [![Contributors][contributors-shield]][contributors-url]
   [![Forks][forks-shield]][forks-url]
   [![Stargazers][stars-shield]][stars-url]
   [![Issues][issues-shield]][issues-url]
-  [![Twitter][twitter-shield]][twitter-url]
   [![MIT License][license-shield]][license-url]
+  [![Twitter][twitter-shield]][twitter-url]
 </div>
 
-# Signup and Login Template
-## Overview
+
+<div>
+  <p align="center">
+    <a href="https://github.com/LegionImmanuel/customTemplate#readme"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://rose-wicked-camel.cyclic.app/">Demo</a>
+    ·
+    <a href="https://github.com/LegionImmanuel/customTemplate/issues">Report Bugs</a>
+    ·
+    <a href="https://github.com/LegionImmanuel/customTemplate/issues">Request Feature</a>
+  </p>
+</div>
+
+
+## Signup-Login Template
+#### Overview
 A simple, easy and ready-to-use Login and Signup Page template
 
 
