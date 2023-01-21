@@ -17,7 +17,7 @@
     <a href="https://github.com/LegionImmanuel/customTemplate#readme"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://rose-wicked-camel.cyclic.app/">Demo</a>
+    <a href="https://dynamic-liger-cec509.netlify.app//">Demo</a>
     ·
     <a href="https://github.com/LegionImmanuel/customTemplate/issues">Report Bugs</a>
     ·
@@ -30,6 +30,8 @@
 #### Overview
 A simple, easy and ready-to-use Login and Signup Page template
 
+### Base Url
+https://dynamic-liger-cec509.netlify.app/
 
 <!-- Markdown Links & Images -->
 
