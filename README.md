@@ -32,8 +32,8 @@
 #### Overview
 A simple, easy and ready-to-use Login and Signup Page template
 
-### Base Url
-https://dynamic-liger-cec509.netlify.app/
+#### Base Url
+https://custom-template-2311.netlify.app
 
 <!-- Markdown Links & Images -->
 
