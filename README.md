@@ -19,7 +19,7 @@
     <a href="https://github.com/LegionImmanuel/customTemplate#readme"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://dynamic-liger-cec509.netlify.app//">Demo</a>
+    <a href="https://custom-template-2311.netlify.app/">Demo</a>
     ·
     <a href="https://github.com/LegionImmanuel/customTemplate/issues">Report Bugs</a>
     ·
