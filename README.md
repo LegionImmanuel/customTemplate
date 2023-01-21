@@ -9,6 +9,8 @@
   [![Issues][issues-shield]][issues-url]
   [![MIT License][license-shield]][license-url]
   [![Twitter][twitter-shield]][twitter-url]
+  
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/e985b22d-5846-4ae5-b7c7-9f78f61ccd2f/deploy-status)](https://app.netlify.com/sites/custom-template-2311/deploys)
 </div>
 
 
